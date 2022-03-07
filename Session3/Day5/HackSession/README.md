@@ -1,1 +1,0 @@
-Folder to hold results from the hack session.
