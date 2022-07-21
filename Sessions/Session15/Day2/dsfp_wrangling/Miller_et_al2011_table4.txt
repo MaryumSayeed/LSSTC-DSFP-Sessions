@@ -1,0 +1,18 @@
+Table 4
+PAIRITEL Observations of LkHalpha 188-G4
+
+t_mid^a	J mag	H mag	K_s mag	
+(MJD)	(Vega)	(Vega)	(Vega)	
+55466.137	10.04 +or- 0.03	9.14 +or- 0.03	8.65 +or- 0.03	
+55468.145	9.99 +or- 0.03	9.06 +or- 0.04	8.64 +or- 0.04	
+55469.148	10.04 +or- 0.03	9.07 +or- 0.03	8.70 +or- 0.03	
+55479.109	10.11 +or- 0.03	9.11 +or- 0.03	8.63 +or- 0.04	
+55504.164	10.20 +or- 0.03	9.24 +or- 0.03	8.74 +or- 0.03	
+55513.195	10.29 +or- 0.03	9.34 +or- 0.03	8.79 +or- 0.03	
+55518.168	10.32 +or- 0.03	9.34 +or- 0.04	8.84 +or- 0.03	
+55527.117	10.35 +or- 0.03	9.40 +or- 0.03	8.89 +or- 0.03	
+55531.145	10.40 +or- 0.03	9.44 +or- 0.03	8.97 +or- 0.03	
+55543.066	10.45 +or- 0.03	9.48 +or- 0.04	9.06 +or- 0.04	
+
+Note.
+a Midpoint between the first and last exposures in a single stacked image.

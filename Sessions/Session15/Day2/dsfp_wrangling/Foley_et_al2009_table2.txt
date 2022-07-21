@@ -1,0 +1,31 @@
+Table 2
+Lick Photometry of SN 2008ha
+
+JD	B (mag)	V (mag)	R (mag)	I (mag)	Unfiltered (mag)	Telescope	
+2454764.80	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	>19.5	KAIT	
+2454778.69	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	18.069 (092)	KAIT	
+2454781.76	18.340 (084)	17.828 (037)	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	KAIT	
+2454783.74	18.229 (062)	17.718 (042)	17.509 (041)	17.377 (054)	 sdotsdotsdot 	KAIT	
+2454784.64	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	17.736 (091)	KAIT	
+2454784.71	18.230 (030)	17.635 (030)	17.570 (030)	17.392 (030)	 sdotsdotsdot 	Nickel	
+2454785.67	18.385 (030)	17.660 (027)	17.610 (023)	17.425 (034)	17.683 (038)	KAIT	
+2454786.80	18.415 (030)	17.710 (030)	17.544 (030)	17.358 (030)	 sdotsdotsdot 	Nickel	
+2454787.67	18.596 (030)	17.762 (030)	17.552 (030)	17.376 (030)	 sdotsdotsdot 	KAIT	
+2454789.68	18.904 (030)	17.827 (014)	17.573 (011)	17.353 (030)	17.732 (028)	KAIT	
+2454790.71	18.969 (030)	17.871 (030)	17.560 (030)	17.278 (030)	 sdotsdotsdot 	Nickel	
+2454792.70	19.563 (054)	18.127 (022)	17.689 (016)	17.443 (030)	 sdotsdotsdot 	KAIT	
+2454794.68	19.789 (072)	18.377 (032)	17.904 (025)	17.541 (037)	 sdotsdotsdot 	KAIT	
+2454795.78	20.297 (216)	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	18.009 (103)	KAIT	
+2454798.65	20.390 (123)	18.791 (033)	18.308 (022)	17.876 (039)	18.388 (022)	KAIT	
+2454799.66	 sdotsdotsdot 	18.921 (046)	18.343 (029)	17.919 (050)	18.468 (040)	KAIT	
+2454800.67	 sdotsdotsdot 	18.942 (035)	18.347 (029)	17.892 (033)	18.482 (027)	KAIT	
+2454801.64	 sdotsdotsdot 	19.004 (044)	18.438 (026)	17.964 (036)	18.589 (031)	KAIT	
+2454802.74	 sdotsdotsdot 	19.064 (082)	18.472 (037)	17.921 (030)	18.635 (026)	KAIT	
+2454803.63	 sdotsdotsdot 	19.130 (054)	18.569 (031)	18.087 (047)	18.589 (030)	KAIT	
+2454805.63	 sdotsdotsdot 	19.211 (095)	18.851 (055)	18.142 (056)	18.682 (048)	KAIT	
+2454809.67	 sdotsdotsdot 	19.288 (206)	19.104 (135)	 sdotsdotsdot 	18.909 (078)	KAIT	
+2454811.61	 sdotsdotsdot 	19.462 (103)	19.069 (073)	18.374 (067)	19.150 (060)	KAIT	
+2454812.62	 sdotsdotsdot 	19.458 (207)	19.118 (065)	18.482 (077)	19.070 (049)	KAIT	
+2454831.63	21.372 (030)	20.191 (030)	19.647 (030)	18.864 (030)	 sdotsdotsdot 	Nickel	
+
+Note. Uncertainties (units of 0.001 mag) are given in parentheses.
