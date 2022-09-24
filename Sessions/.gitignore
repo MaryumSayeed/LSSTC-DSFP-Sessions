@@ -2,3 +2,9 @@
 */.DS_Store
 */*/.DS_Store
 *.csv
+Session14/Day2/test_lcs/
+Session14/Day2/training_lcs/
+Session15/Day2/.coverage
+Session16/=4.2.0
+Session16/Day4/SameStatsCode/
+Session16/Day5/lensing_fwd_mdl_lognorm.pickle
