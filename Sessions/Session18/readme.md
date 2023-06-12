@@ -17,8 +17,8 @@ Monday June 12, 2023
 * 01:30 PM – 02:30 PM o Introduction to CCDs; C Saunders
 * 02:30 PM – 03:30 PM o Problem | Solution: Introduction to CCDs; C Saunders
 * 03:30 PM – 04:00 PM o Break
-* 04:00 PM – 05:00 PM o Point Spread Functions and Photometry of Starts; E Huff 
-* 05:00 PM – 06:00 PM o Problem | Solution: Point Spread Functions and Photometry of Starts; E Huff
+* 04:00 PM – 05:00 PM o Point Spread Functions and Photometry of Stars; E Huff 
+* 05:00 PM – 06:00 PM o Problem | Solution: Point Spread Functions and Photometry of Stars; E Huff
 
 ## Day 2 – Backgrounds, Astrometry, and Photometry
 
@@ -30,13 +30,13 @@ Monday June 12, 2023
 Tuesday, June 13, 2023
 * 09:00 AM - 10:00 AM o Introduction to Astrometry; C Saunders
 * 10:00 AM - 10:30 AM o Break
-* 10:30 AM - 12:00 PM o Problem | Solution: Introduction to Astrometry; C Saunders
-* 12:00 PM - 01:30 PM o LUNCH
-* 01:30 PM - 02:30 PM o Sky Background Estimation and Source Detection; Y. AlSayyad
-* 02:30 PM - 04:00 PM o Problem: Problem | Solution: Sky Background Estimation and Source Detection; Y. AlSayyad
-* 04:00 PM - 04:30 PM o BREAK
-* 04:30 PM - 05:15 PM o Photometry of Galaxies: E Huff
-* 05:15 PM - 06:00 PM o Problem | Solution: Photometry of Galaxies; E Huff
+* 10:30 AM - 11:45 AM o Problem | Solution: Introduction to Astrometry; C Saunders
+* 11:45 AM - 01:15 PM o LUNCH
+* 01:15 PM - 02:15 PM o Sky Background Estimation and Source Detection; Y. AlSayyad
+* 02:15 PM - 03:15 PM o Problem: Problem | Solution: Sky Background Estimation and Source Detection; Y. AlSayyad
+* 03:15 PM - 03:45 PM o BREAK
+* 03:45 PM - 04:45 PM o Photometry of Galaxies: E Huff
+* 04:45 PM - 05:30 PM o Problem | Solution: Photometry of Galaxies; E Huff
 * 06:00 PM - ??:?? PM o Group dinner
 
 ## Day 3 — Image Coaddition
